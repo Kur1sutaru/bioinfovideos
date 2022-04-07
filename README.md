@@ -21,4 +21,8 @@ Temas que eu gostaria - pretendo abordar:
 * Analises de microbiomas;
 * Conceitos de IA e aprendizagem de maquina;
 
+
+## Os videos estarao disponiveis no meu OSF - https://osf.io/9kjax/
+
+
 # Aceito sugestoes de outros temas! 🦄
